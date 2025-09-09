@@ -1,0 +1,1 @@
+Esse projeto foi para uma atividade avaliativa da Disciplina de Algoritmo e Programação da faculdade. Foi um projeto relativamente desafiador em que tentei colocar o máximo de esforço em comentários que auxiliassem a compreensão de todas as pessoas interessadas. 
